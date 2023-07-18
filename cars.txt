@@ -1,0 +1,7 @@
+Registration No.,Brand,Model,Status,Price per day
+WA 12637 A,Honda,HRV,Booked,460
+MM 778 S,Toyota,Vios,Booked,460
+QQ1A,Mercedes,S-Class,Booked,1100.50
+TT 3320,Mazda,MX5,Available,650.90
+WA 12637 A,Honda,HRV,Booked,460
+jiji,mazda,ijiji,Available,1200

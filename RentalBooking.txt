@@ -1,0 +1,5 @@
+jiji,mazda ijiji,03/12/2022,04/12/2022,1200.0,1000,dandan2,Dan Dan,lee@gmail.com,0192228837
+MM 778 S,Toyota Vios,03/12/2022,04/12/2022,460.0,1000,dandan2,Dan Dan,lee@gmail.com,0192228837
+WA 12637 A,Honda HRV,03/12/2022,06/12/2022,1380.0,0,dandan2,Dan Dan,lee@gmail.com,0192228837
+MM 778 S,Toyota Vios,01/12/2022,06/12/2022,2300.0,0,lee990429,Lynn Lee,lee@gmail.com,0192228837
+QQ1A,Mercedes S-Class,01/12/2022,05/12/2022,4402.0,0,GenWilson,Gen Wilson,gen@gmail.com,0199928837

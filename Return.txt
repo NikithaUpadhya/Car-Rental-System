@@ -1,0 +1,20 @@
+2,5658,27/11/22,no,no
+8,1234,27/05/22,2,100
+3,5690,27/11/22,no,no
+QQ1A,Mercedes S-Class,05/12/2022,-,-
+WA 18697 A,Honda HRV,03/12/2022,-,-
+WA 12637 A,Honda HRV,03/12/2022,--,--
+WR 35647 R,Honda HRV,03/12/2022,--,--
+WA 12637 A,Honda HRV,03/12/2022,-,-
+TT 3320,Mazda MX5,04/12/2022,-,-
+jiji,mazda ijiji,03/12/2022,-,-
+MM 778 S,Toyota Vios,04/12/2022,no,no
+jiji,mazda ijiji,03/12/2022,no,100
+jiji,mazda ijiji,04/12/2022,-,1200
+jiji,mazda ijiji,04/12/2022,-,1200
+jiji,mazda ijiji,04/12/2022,-,1200
+jiji,mazda ijiji,04/12/2022,-,1200
+jiji,mazda ijiji,04/12/2022,-,1800
+jiji,mazda ijiji,04/12/2022,-,0
+MM 778 S,Toyota Vios,04/12/2022,3,1000
+jiji,mazda ijiji,04/12/2022,-,1000

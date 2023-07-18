@@ -1,0 +1,7 @@
+1,1234,Naomi,Kelana jaya,20/11/22,25/11/22,450
+2,5658,lavender,Bukit Bintang,21/11/22,27/11/22,500
+3,5690,Austin,Kl Sentral,23/11/22,27/11/22,350
+4,5389,Teddy,Kelana jaya,4/05/22,20/05/22,700
+5,5678,Alex,Asia Jaya,23/07/22,30/07/22,800
+7,9000 mm ,Max,Bangsar,23/05/22,30/06/22,1600
+8,1234,Andy,Putrajaya,23/05/22,27/05/22,300
